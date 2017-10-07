@@ -1,0 +1,6 @@
+C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\bin\Debug\AlgoAndDSCSharp.exe
+C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\bin\Debug\AlgoAndDSCSharp.pdb
+C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.csprojResolveAssemblyReference.cache
+C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.csproj.CoreCompileInputs.cache
+C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.exe
+C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.pdb
