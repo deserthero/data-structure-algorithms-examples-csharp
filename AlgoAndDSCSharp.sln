@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoAndDSCSharp", "AlgoAndDSCSharp\AlgoAndDSCSharp.csproj", "{C4E8975E-3B18-4C7D-B874-1CF2FB55F741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoAndDSCSharpTests", "AlgoAndDSCSharpTests\AlgoAndDSCSharpTests.csproj", "{EA138876-F4D3-471E-BBEF-38A6FDE77704}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C4E8975E-3B18-4C7D-B874-1CF2FB55F741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4E8975E-3B18-4C7D-B874-1CF2FB55F741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4E8975E-3B18-4C7D-B874-1CF2FB55F741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA138876-F4D3-471E-BBEF-38A6FDE77704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA138876-F4D3-471E-BBEF-38A6FDE77704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA138876-F4D3-471E-BBEF-38A6FDE77704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA138876-F4D3-471E-BBEF-38A6FDE77704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

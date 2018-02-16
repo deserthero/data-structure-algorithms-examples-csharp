@@ -4,3 +4,7 @@ C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\D
 C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.csproj.CoreCompileInputs.cache
 C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.exe
 C:\Users\amarzouk\Desktop\Courses\lap\algo\AlgoAndDSCSharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.pdb
+C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.exe
+C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.pdb
+C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\bin\Debug\AlgoAndDSCSharp.exe
+C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\bin\Debug\AlgoAndDSCSharp.pdb
