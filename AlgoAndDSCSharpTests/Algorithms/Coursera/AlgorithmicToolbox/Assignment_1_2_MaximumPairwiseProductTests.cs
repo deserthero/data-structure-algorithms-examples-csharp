@@ -43,5 +43,14 @@ namespace AlgoAndDSCSharpTests.Algorithms.Coursera.AlgorithmicToolbox
                 .WithMessage("No Pairs to product");
         }
 
+
+        [Fact]
+        public void MaxPairwiseProductFast_PassAnSequanceWhichHaveAProductOfTypeLong_ReturnCorrectResult()
+        {
+            var expected = (long)100000 * 90000;
+            var result = Assignment_1_2_MaximumPairwiseProduct.MaxPairwiseProductFast(new int[] { 100000, 90000 });
+            result.Should().Be(expected);
+        }
+
     }
 }

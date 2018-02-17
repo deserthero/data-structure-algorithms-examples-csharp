@@ -128,7 +128,7 @@ namespace AlgoAndDSCSharp.Algorithms.Coursera.AlgorithmicToolbox
 
         #region C#
 
-        public static int MaxPairwiseProductFast(int[] sequence)
+        public static long MaxPairwiseProductFast(int[] sequence)
         {
             if (sequence.Length == 1)
                 throw new Exception("No Pairs to product");
@@ -154,7 +154,7 @@ namespace AlgoAndDSCSharp.Algorithms.Coursera.AlgorithmicToolbox
             }
 
 
-            return firstMax * secondMax;
+            return (long)firstMax * secondMax;
         }
 
         #endregion
@@ -186,7 +186,8 @@ namespace AlgoAndDSCSharp.Algorithms.Coursera.AlgorithmicToolbox
         //            }
         //        }
 
-        //        return firstMax * secondMax;
+        // // Cast here is very important because the product of two int32 will overflow so we need to cast any of them to ensure that the result will be put inside int64
+        //  return (int64_t)firstMax* secondMax;
         //    }
 
         //    int main()
