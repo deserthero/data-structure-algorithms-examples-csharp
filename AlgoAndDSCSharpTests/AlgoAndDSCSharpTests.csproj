@@ -70,7 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_1_1_SumTwoNumbersTests.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_1_2_MaximumPairwiseProductTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

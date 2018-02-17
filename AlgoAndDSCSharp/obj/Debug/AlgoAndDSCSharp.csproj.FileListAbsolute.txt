@@ -8,3 +8,4 @@ C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAnd
 C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.pdb
 C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\bin\Debug\AlgoAndDSCSharp.exe
 C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\bin\Debug\AlgoAndDSCSharp.pdb
+C:\Users\amarzouk\Source\Repos\data-structure-algorithms-examples-csharp\AlgoAndDSCSharp\obj\Debug\AlgoAndDSCSharp.csprojResolveAssemblyReference.cache
