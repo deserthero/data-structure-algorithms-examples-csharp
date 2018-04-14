@@ -41,13 +41,29 @@
   <ItemGroup>
     <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_1_1_SumTwoNumbers.cs" />
     <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_1_2_MaximumPairwiseProduct.cs" />
+    <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_1_2_MaximumPairwiseProduct_StressTest.cs" />
+    <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_1_3_CoinChangeProblem_SmallestPossibleNumberOfCoins.cs" />
+    <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_2_2_GreatestCommonDivisor.cs" />
+    <Compile Include="Algorithms\Coursera\AlgorithmicToolbox\Assignment_2_1_FibonacciNumbers.cs" />
+    <Compile Include="Algorithms\DynamicProgramming\DynamicProgramming.cs" />
+    <Compile Include="Algorithms\Recursion\Recursion.cs" />
+    <Compile Include="Algorithms\Recursion\Recursion_1_Factorial.cs" />
+    <Compile Include="Algorithms\Recursion\Recursion_2_Fibonacci.cs" />
+    <Compile Include="Algorithms\Recursion\Recursion_3_PalindromeString.cs" />
+    <Compile Include="Algorithms\Recursion\Recursion_4_PowerOfNumber.cs" />
+    <Compile Include="Algorithms\Recursion\Recursion_5_SierpinskiGasket.cs" />
+    <Compile Include="BitsArt\Binary_1_Basics.cs" />
+    <Compile Include="BitsArt\Binary_2_EvenOrOdd.cs" />
     <Compile Include="DataStructures\LinkedList\LinkedList.cs" />
     <Compile Include="DataStructures\LinkedList\LinkedListNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StartHere\StartHere.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DataStructures\DoublyLinkedList\" />
+    <Folder Include="Math\" />
+    <Folder Include="Statistics\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
